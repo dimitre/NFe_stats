@@ -1,0 +1,7 @@
+*.zip
+*.csv
+*.tsv
+*.txt
+*.sqlite
+.DS_Store
+*.numbers
